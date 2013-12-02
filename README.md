@@ -20,23 +20,22 @@ Click Edit.
 
 Add the following to the Header HTML box:
 
-      <!-- Begin OWU custom header  --> 		
-
-      <div id="header">
+	<!-- Begin OWU custom header  --> 		
+	<div id="header">
 	</div>
 	<div id="main">
-            <div class="mainContentWrapper">
-	    	      <p class="breadcrumb"><a href="http://library.owu.edu">Home</a> &nbsp;&nbsp;&#187;&nbsp;&nbsp; You are looking for ...</p>
-	    	      <div id="360header">
-	    	      </div>
+		<div class="mainContentWrapper">
+			<p class="breadcrumb"><a href="http://library.owu.edu">Home</a> &nbsp;&nbsp;&#187;&nbsp;&nbsp; You are looking for ...</p>
+			<div id="360header">
+			</div>
+			
+			<div class="inner">
+			</div>
+			
+			<div id="contentArea"> 
+				<div id="360link-reset">
 
-	    	      <div class="inner">
-	    	      </div>
-
-	    	      <div id="contentArea"> 
-	    		      <div id="360link-reset">
-
-      <!-- End OWU custom header -->
+	<!-- End OWU custom header -->
 
 Add the following to the Footer HTML box:
 
