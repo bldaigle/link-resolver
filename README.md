@@ -23,6 +23,7 @@ Add the following to the Header HTML box:
 	<!-- Begin OWU custom header  --> 		
 	<div id="header">
 	</div>
+	
 	<div id="main">
 		<div class="mainContentWrapper">
 			<p class="breadcrumb"><a href="http://library.owu.edu">Home</a> &nbsp;&nbsp;&#187;&nbsp;&nbsp; You are looking for ...</p>
@@ -39,18 +40,16 @@ Add the following to the Header HTML box:
 
 Add the following to the Footer HTML box:
 
-      <!-- Begin OWU custom footer code here -->
-      
-      </div>
-			</div>
-		</div>
+	<!-- Begin OWU custom footer code here -->
+	</div>
+	</div>
+	</div>
 	</div>
 	</div>
 
 	<div id="footer">
-	  <div id="footerContentWrapper">
-	    
-	  </div>
+		<div id="footerContentWrapper">
+	    	</div>
 	</div>
 	<script src="http://cdn.jquerytools.org/1.2.6/jquery.tools.min.js" type="text/javascript"></script>
 	<script src="http://library.owu.edu/link-resolver/360link-reset.js" type="text/javascript"></script>
