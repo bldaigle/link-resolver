@@ -20,38 +20,44 @@ Click Edit.
 
 Add the following to the Header HTML box:
 
-      <!-- Begin custom link resolver header -->
+      <!-- Begin OWU custom header  --> 		
 
-      <div id="360header">
-        </div>
-      
-        <div class="inner">
-      </div>
-      
-      <div id="contentArea"> 
-        <div id="360link-reset">
-      
-      <!-- End custom link resolver header -->
+      <div id="header">
+	</div>
+	<div id="main">
+            <div class="mainContentWrapper">
+	    	      <p class="breadcrumb"><a href="http://library.owu.edu">Home</a> &nbsp;&nbsp;&#187;&nbsp;&nbsp; You are looking for ...</p>
+	    	      <div id="360header">
+	    	      </div>
+
+	    	      <div class="inner">
+	    	      </div>
+
+	    	      <div id="contentArea"> 
+	    		      <div id="360link-reset">
+
+      <!-- End OWU custom header -->
 
 Add the following to the Footer HTML box:
 
-      <!-- Begin custom footer code here -->
+      <!-- Begin OWU custom footer code here -->
       
       </div>
-              </div>
-      		  </div>
-          </div>
-      	</div>
+			</div>
+		</div>
+	</div>
+	</div>
+
+	<div id="footer">
+	  <div id="footerContentWrapper">
+	    
+	  </div>
+	</div>
+	<script src="http://cdn.jquerytools.org/1.2.6/jquery.tools.min.js" type="text/javascript"></script>
+	<script src="http://library.owu.edu/link-resolver/360link-reset.js" type="text/javascript"></script>
+	<script src="http://library.owu.edu/js/bootstrap.js" type="text/javascript"></script>
       
-      <div id="footer">
-        <div id="footerContentWrapper">
-      	    
-        </div>
-      </div>
-      <script src="http://cdn.jquerytools.org/1.2.6/jquery.tools.min.js" type="text/javascript"></script>
-      <script src="PATH/TO/360link-reset.js" type="text/javascript"></script>
-            
-      <!-- End custom footer code here -->
+      <!-- End OWU custom footer code here -->
 
 
 **** CUSTOMIZATION ****
