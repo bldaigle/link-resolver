@@ -67,6 +67,6 @@ From Matthew Reidsma:
 
 These customizations are what we have in place for OWU's link resolver. These instructions may or may not work seamlessly for other libraries. In fact, what I found when implementing Reidsma's original script was that it wasn't an immediate turn-key solution. In addition to stripping out all the default CSS, the jQuery in the script works by calling specific elements by their css class or id. I found that these classes or ids may differ depending on your stock 360Link implementation so you will need to view the source code of your link resolver pages to find the class or id names for each element.
 
-
+For questions, contact Ben Daigle at bldaigle@owu.edu
 
 
