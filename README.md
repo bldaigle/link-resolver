@@ -6,6 +6,8 @@ Customizations to OWU Libraries' 360 Link OpenURL Resolver
 These customizations are heavily based on code by Matthew Reidsma here:
 https://github.com/mreidsma/360link-reset-2.0
 
+For anyone interested in implementing this customization to their own 360link resolver, I would recommend starting with Reidsma's script and documentation. What follows is Ohio Wesleyan University's customizations which may or may not work as well for other libraries.
+
 This repository consists of two main files:
 360link-reset.js
 360link-resolver.css
