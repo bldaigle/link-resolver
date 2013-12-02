@@ -55,7 +55,7 @@ Add the following to the Footer HTML box:
 	<script src="http://library.owu.edu/link-resolver/360link-reset.js" type="text/javascript"></script>
 	<script src="http://library.owu.edu/js/bootstrap.js" type="text/javascript"></script>
       
-      <!-- End OWU custom footer code here -->
+	<!-- End OWU custom footer code here -->
 
 
 **** CUSTOMIZATION ****
